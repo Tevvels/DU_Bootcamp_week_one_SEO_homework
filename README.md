@@ -15,3 +15,5 @@ In the HTML file
 
     Comments where added to the css file for readability.
     the css was also reorganized to follow the flow of the html page.
+    
+A live example https://tevvels.github.io/DU_Bootcamp_week_one_SEO_homework/
